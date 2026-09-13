@@ -14,4 +14,6 @@ This project was developed in collaboration with Angelie Melissa as our final pr
    - Health and damage management for both players and enemies
    - Quest-based progression centered around rescuing the princess
    - Interactive UI for combat, inventory, and player status
-   
+
+3. Showcase
+   https://youtu.be/0TviIqtmWdY?si=hEsOrHc-uWiTp8Kf
